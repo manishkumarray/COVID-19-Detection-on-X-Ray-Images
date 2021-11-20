@@ -1,0 +1,1 @@
+Read me file of  COVID-19 Detection on X-Ray Images
